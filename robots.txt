@@ -1,0 +1,9 @@
+# Robots.txt for Labrani DJ Academy
+User-agent: *
+Allow: /
+Allow: /Images/
+Allow: /styles.css
+Allow: /script.js
+
+# Sitemap link to speed up Google Search Console indexing
+Sitemap: https://labranidjacademy-8f855.web.app/sitemap.xml
